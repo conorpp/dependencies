@@ -1,0 +1,14 @@
+#!/bin/bash
+
+sudo npm install express -g
+sudo npm install hbs -g
+
+sudo npm install forever -g
+sudo npm install http-proxy -g
+
+sudo npm install redis -g
+sudo npm install binaryjs -g
+sudo npm install socket.io -g
+sudo npm install jade -g
+
+

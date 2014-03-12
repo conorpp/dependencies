@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# for easily adding to custom installer lists
+
+        case "$ext" in
+        c) echo "$filename : C source file"
+           ;;
+        o) echo "$filename : Object file"
+           ;;
+        sh) echo "$filename : Shell script"
+            ;;
+        txt) echo "$filename : Text file"
+             ;;
+        *) echo " $filename : Not processed"
+           ;; 
+

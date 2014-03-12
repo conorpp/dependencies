@@ -1,0 +1,12 @@
+#!/bin/bash
+
+NM="/usr/lib/node_modules"
+echo
+
+echo " - npm installs packages globally."
+
+echo " - See them here $NM"
+
+echo " - Copy the ones you need to your local project directories."
+
+echo

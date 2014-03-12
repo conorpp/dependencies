@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Django/Karxim
+sudo pip install Django
+sudo pip install south
+sudo pip install mysql-python
+sudo pip install Image
+sudo pip install redis
+sudo pip install numpy python-dateutil pytz pyparsing six --force-reinstall --upgrade

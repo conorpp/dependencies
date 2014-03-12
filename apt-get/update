@@ -1,0 +1,19 @@
+#!/bin/bash
+
+sudo apt-get update
+sudo apt-get build-essential
+sudo apt-get install git
+
+sudo apt-get install make gcc
+sudo apt-get install redis-server
+
+sudo apt-get install python-pip
+sudo pip install mysql-python
+ sudo apt-get install python-dev
+
+sudo apt-get install libxml2-dev libxslt-dev
+sudo apt-get install python-lxml
+
+
+
+
